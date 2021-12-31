@@ -1,4 +1,4 @@
-#MY_Portfolio
+#MyPortfolio
 My 1 page portfolio website which was created by me using HTML, CSS, jQuery &amp; Bootstrap !!!
 
 #Banner_Section
