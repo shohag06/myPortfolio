@@ -1,5 +1,6 @@
-#MyPortfolio
-My 1 page portfolio website which was created by me using HTML, CSS, jQuery &amp; Bootstrap !!!
+#MyPortfolio!!
+
+1 page portfolio website of mine, which was created by me using HTML, CSS, jQuery &amp; Bootstrap !!!
 
 #Banner_Section
 ![Portfolio](https://user-images.githubusercontent.com/75539161/147832691-01041afd-00ac-44a6-97fa-aa835cce4ca9.PNG)
